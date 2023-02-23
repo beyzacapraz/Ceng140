@@ -1,2 +1,2 @@
 # Ceng140
-Take Home Exams of the second semester of the first year.
+Take Home Exams of the second semester of the first year in METU.
